@@ -1,0 +1,73 @@
+body {
+  height: 100%;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 1rem;
+  border: 0px dashed red; }
+
+h1 {
+  font-family: "Lora", serif;
+  font-size: 3rem;
+  margin: 0px; }
+
+h2 {
+  font-style: "Lora", serif;
+  font-size: 1.5rem; }
+
+h3 {
+  font-style: "Lora", serif;
+  font-size: 1rem; }
+
+nav li {
+  font-family: "Lora", serif;
+  font-size: 1.25rem; }
+
+p {
+  font-style: "Source Sans Pro", sans-serif;
+  font-size: 1rem; }
+
+figcaption {
+  font-style: "Lora", serif;
+  font-size: 75rem; }
+
+#wrapper {
+  width: 90%;
+  height: 630px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid brown;
+  border-radius: 10px;
+  padding: 30px;
+  margin: auto; }
+
+#logo {
+  width: 140px; }
+
+#navbar {
+  text-align: center;
+  font-weight: bold;
+  background-color: #E5E4E2;
+  padding: 0px;
+  margin: 0px;
+  width: 100%; }
+
+#navbar li {
+  display: inline;
+  padding: 5px;
+  margin: 0px 40px 0px 40px; }
+
+#main-column {
+  float: left;
+  width: 78%;
+  height: 100%; }
+
+#right-column {
+  background-color: lightgrey;
+  float: right;
+  width: 18%;
+  height: 100%; }
+
+#column-wrapper {
+  width: 100%;
+  height: 68%; }
+
+/*# sourceMappingURL=main.css.map */
